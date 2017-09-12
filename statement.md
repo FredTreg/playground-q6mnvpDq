@@ -4,7 +4,7 @@ This Java template lets you get started quickly with a simple one-page playgroun
 
 ```java runnable
 // { autofold
-public class Main {
+public class Main {sdf
 
 public static void main(String[] args) {
 // }
